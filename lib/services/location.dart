@@ -16,3 +16,7 @@ class Location {
     }
   }
 }
+
+// double temp = decoded['main']['temp'];
+// int condition = decoded['weather'][0]['id'];
+// String city = decoded['name'];
